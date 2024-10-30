@@ -1,7 +1,7 @@
 #!/bin/bash
 # This script can be copied into your base directory for use with
 # automated testing using assignment-autotest.  It automates the
-# steps described in https://github.com/cu-ecen-5013/assignment-autotest/blob/master/README.md#running-tests
+# steps described in: https://github.com/cu-ecen-5013/assignment-autotest/blob/master/README.md#running-tests
 set -e
 
 cd `dirname $0`
